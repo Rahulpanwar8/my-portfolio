@@ -109,4 +109,8 @@ Deploy the site on hosting platforms like GitHub Pages or Netlify.
 
 📧 Contact Me
 helprahulpanwar@gmail.com
->>>>>>> f793f4e (update files)
+
+#########################################################################
+## Contributions 
+- Added a responsive and modern footer section to improve the overall layout and user experience.
+
